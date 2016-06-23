@@ -1,0 +1,14 @@
+[
+	{
+ 		"name": "Cannon",
+ 		"weight": 400,
+ 		"damage": 50,
+ 		"ammunitionType": "SOLID_SHOT"
+	},
+	{
+ 		"name": "Musket",
+ 		"weight": 40,
+ 		"damage": 10,
+ 		"ammunitionType": "GRAPE_SHOT"
+	}
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "type": "SLOOP",
+    "weightAllowed": 1600,
+    "health": 1000
+  },
+  {
+    "type": "CARAVEL",
+    "weightAllowed": 3200,
+    "health": 2500
+  }
+]
